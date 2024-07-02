@@ -7,5 +7,5 @@ Link to the dataset used for training the model: https://zenodo.org/record/73581
 Link to the manually-created dataset used for testing the model: [test_data.zip](https://github.com/bharathraj-v/pv-detection/blob/main/test_data.zip). Source: Google Maps
 
 **Paper Link**: [paper.pdf](https://github.com/bharathraj-v/pv-detection/blob/main/paper.pdf)\
-**Status**: Awaiting publishing \
+**Status**: Published. [https://ieeexplore.ieee.org/document/10490316](https://ieeexplore.ieee.org/document/10490316) \
 **Authors**: [Bharath Raj](https://www.linkedin.com/in/bharathraj-v/), [Dr. Prakash PS](https://www.linkedin.com/in/prakash2102/)
